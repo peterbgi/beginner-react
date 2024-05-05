@@ -1,2 +1,2 @@
 # beginner-react
-used vite+react+ts
+I used vite+react+ts
